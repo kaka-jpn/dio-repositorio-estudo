@@ -1,8 +1,0 @@
-Semantic Versioning 
-
-3.2.7
-3:major (quebra de compatibilidade)
-2:minor (implementação de funcionalidade)
-7:patch (alterações de patch,correções de bugs)
-
-Conventional commits
