@@ -6,11 +6,13 @@
 
 - É uma estrutura organizada de dados na memoria de um computador
 
+
+
 ## Algoritmo
 
 - É um conjunto de instruções estruturadas e ordenadas, com objetivo de realizar uma tarefa ou operação especifica
 
-------
+
 
 ## Vetores e Matrizes
 
@@ -46,7 +48,7 @@ exemplo:
 
 
 
-Registro
+## Registro
 
 Registro é uma estrutura que fornece um formato especializado para armazenar informações em memoria
 
@@ -55,6 +57,8 @@ Registro é uma estrutura que fornece um formato especializado para armazenar in
 
 
 ------
+
+
 
 ## Listas, pilha e fila
 
@@ -69,7 +73,7 @@ nó
 
 ### Pilhas
 
-- É uma estrutura de dados que serve como uma coleção de elementos, e permite o acesso a somente m item de dados armazenado
+- É uma estrutura de dados que serve como uma coleção de elementos, e permite o acesso a somente um item de dados armazenado
 
 #### LIFO ou UEPS
 
@@ -87,6 +91,27 @@ o elemento removido é o que está na estrutura há mais tempo
 
 
 
+Arvore
+
+Tabela hash
+
+Grafos
+
+
+
+arvore é uma estrutura de dados que organiza seus elementos de forma hierárquica, onde existe um elemento que fica no topo da árvore, chamado de raiz e existem os elementos subordinados a ele, que são chamados de nós ou folhas 
+
+
+
+Tabela Hash
+
+uma tabela hash, de dispersão ou espalhamento é um estrutura de dados especial, que associa chaves de pesquisa a valores
+
+
+
+Grafos
+
+grafos são estrutura que permitem programar a relação entre objetos
 
 
 
@@ -94,18 +119,19 @@ o elemento removido é o que está na estrutura há mais tempo
 
 
 
+##### Qual a diferença entre os arrays e a estrutura registro?
+
+array permitem armazenar vários dados de um unioc tipo de dados, registro permite armazenar mais de um tipo de dado
 
 
 
+##### Em um algoritmo, como podemos acessar um campo de um registro?
 
+utilizando o simbolo de ponto
 
+##### Qual das estruturas de dados a seguir é flexível/genérica o suficiente para a criação de algoritmos de Fila e Pilha?
 
-
-
-
-
-
-
+vetor
 
 
 
