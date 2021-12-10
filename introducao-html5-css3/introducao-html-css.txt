@@ -96,3 +96,11 @@ Border
 font-family
 font-size
 font-style
+
+Dimensão e alinhamento
+
+width
+height
+max-widthmax height
+margin
+text aligin
