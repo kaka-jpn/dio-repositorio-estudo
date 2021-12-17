@@ -1,0 +1,8 @@
+DOM
+document Object Model
+
+Frameworks
+    vueJS
+    Angular
+    React
+    Jquery
