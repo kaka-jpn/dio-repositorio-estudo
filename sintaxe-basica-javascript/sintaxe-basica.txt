@@ -1,0 +1,16 @@
+tipagem
+    a tipagem funciona como uma regra de uso de dados, quanto mais forte for a tipagem, mais obrigatório é a declaração do tipo de dado
+
+var numero = 1;
+// o javascript já converte o valor 1 para o tipo Number
+
+tipos primitivos
+as variaveis em javascript podem guardar tipos de dados que chamamos de tipos primitivos
+
+variaveis podem guardar valores dos tipos: Boolean;null;undefined;Number;String;Array;Object;Function
+
+declaração de variaveis
+var - escopo global e local, pode ter seu valor alterado, se não tiver um valor inicial será tratado como null
+let - escopo local de bloco, pode ter seu valor alterado, se não tiver um valor inicial será tratado como null
+const - escopo local de bloco, somente leitura, o valor inicial obrigatório e não pode ser alterado
+
