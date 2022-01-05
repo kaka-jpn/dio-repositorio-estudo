@@ -1,6 +1,6 @@
-# Glowing-pancake (Dio-estudos)
+#  (Dio-estudos)
 
-Bem vindo a glowing-pancake :tada:
+Hello world :tada:
 
 Organizando e colocando estudos sobre programação.
 
@@ -16,5 +16,5 @@ Organizando e colocando estudos sobre programação.
 
 
 
-Panquecas são gostosos, imaginando elas brilhando...
+
 
