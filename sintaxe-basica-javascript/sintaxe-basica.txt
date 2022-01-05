@@ -40,3 +40,104 @@ slice() - retorna uma parte de um array existente
 Objetos
 Dados que possuem propriedades e valores que definem suas características. Deve ser declarado entre chaves "{}"
 
+
+Estruturas condicionais
+São instruções para realizar determinadas tarefas a partir de uma condição, seja de decisão ou repetição
+
+if 
+Para estabelecer uma condição
+
+else 
+No caso de a condição não ser atendida podemos usar o "else"
+
+else if
+Caso haja mais de uma condição usamos o "else if"
+
+ninho de if
+Podemos também usar o "if" dentro de um outro "if", chamamos isso de ninhos de if's
+
+if ternário
+Podemos também fazer uma verificação em uma única linha usando "if" ternário
+
+Swicth/case 
+O Swicth/case funciona como uma estrutura condicional
+
+
+Estrutura de repetição
+
+    Laços de repetição
+    For;
+    For/in;
+    For/of;
+    While;
+    Do/while;
+
+For 
+Funciona como uma repetição de instrução até que a condição seja falsa
+
+For/in
+Funciona como uma repetição a partir de uma propriedade 
+
+For/of
+Funciona como uma repetição a partir de uma valor
+O For/of não funciona com objetos pois a propriedades variam, diferentes do índice em um array que sempre serão números inteiros
+
+while
+Executa uma instrução "enquanto" determinada condição for verdadeira, a verificação e feita antes da execução
+
+Do/While
+Executa uma instrução "até que" determinada condição seja falsa, a verificação é feita depois da execução
+
+
+Função Declarativas
+São funções que possuem o uso mais comum, deve ser declarada usado a palavra reservado "function" seguida do nome da função, parênteses e chaves
+
+Ex:
+function noemDaFuncao(){
+${instrucao};
+}
+
+Expressões de funções
+São funções atribuidas à expressões. A nomeação das funções por expressão é opcional
+
+Ex:
+var funcao = function nomeDaFuncao(){
+${instrucao};
+}
+
+
+Arrow Function
+São funções de expressão de sintaxe curta. Arrow functions sempre serão an^nimas, e portanto não podem ser nomeadas.
+Devem ser declarada com parênteses "()", seguido de "=>" e depois chaves "{}"
+
+Ex:
+var funcao = () => {
+${instrucao};
+}
+
+Funções Aritméticas
+
+Number() - converter valores em números
+Prompt() - para registrat entradas de usuários;
+Alert() - para mostrar mensagem ao usuário;
+Template Strings - para usar strings junto com expressões;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
