@@ -1,33 +1,33 @@
-Sintaxe e Operadores
+### Sintaxe e Operadores <p>
 
-Tipos de operadores
-Aritmética
-Atribuição
-Comparação
-Lógica
-Condicional
+Tipos de operadores <p>
+Aritmética  
+Atribuição  
+Comparação  
+Lógica  
+Condicional  
 
-Tipos de operadores
-+ adição
-- subtração
-multiplicação
-** exponencial
-/ divisão
-% módulo
-++ incrementar
--- decrementar
+Tipos de operadores  <p>
+(+ adição)  
+(- subtração)  
+multiplicação  
+** exponencial  
+/ divisão  
+% módulo  
+++ incrementar  
+-- decrementar  
 
-Operadores de Comparação
-== igual a 
-=== mesmo valor e mesmo tipo
-!= diferente
-!== valor e tipos diferentes
-> maior que
-< menor que
->= maior ou igual
-<= menor ou igual
+Operadores de Comparação <p>
+== igual a   
+=== mesmo valor e mesmo tipo  
+!= diferente  
+!== valor e tipos diferentes  
+> maior que  
+< menor que  
+>= maior ou igual  
+<= menor ou igual  
 
-Lógica
-&& “e” lógico
-|| “ou” lógico
-! “não” lógico
+Lógica <p>
+&& “e” lógico  
+|| “ou” lógico  
+! “não” lógico  
