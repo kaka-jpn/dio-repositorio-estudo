@@ -7,9 +7,8 @@
 - realiza as operações em ordem
 
 ### sintaxe
-	Callback: função a ser executada em cada elemento
-	
-	thisArg (opcional): valor de ‘this’ dentro da função de callback
+- Callback: função a ser executada em cada elemento
+- thisArg (opcional): valor de ‘this’ dentro da função de callback
 
 
 ### map vs forEach
